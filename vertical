@@ -1,0 +1,482 @@
+<div>
+<div_date 2001/06/1>
+<div_byline Szabó Anita>
+<div_head A megyét is elérte a gyomorvírus : negyven fertõzött egy óvodában>
+<div_subcorpus press>
+<div_region magy>
+<div_id press-dtn.1>
+<div_type article>
+<div_column Baranyai tükör>
+<opener>
+<dateline>
+Dunántúli	Dunántúli	A.NOM	AS_A
+Napló	napló	N.NOM	NS3NN
+Baranyai	Baranyai	A.NOM	AS_A
+tükör	tükör	N.NOM	NS3NN
+<date iso8601="06-1-2001">
+2001._június_1.	2001._június_1.	DATUM	DATUM
+</date>
+</dateline>
+</opener>
+<head type="unspec">
+<s>
+A	a	Det	D
+megyét	megye	N.ACC	NS3NA
+is	is	Con	C
+elérte	elérik|elér	Pre.V.TMe3|Pre.V.TMe3	@VS3PD|@VS3PD
+a	a	Det	D
+gyomorvírus	gyomorvírus	N.NOM	NS3NN
+:	:	WPUNCT	WPUNCT
+negyven	negyven	Num.NOM	Q
+fertõzött	fertõzött	MIB.NOM	AS_V
+egy	egy	Num.NOM	Q
+óvodában	óvoda	N.INE	NS3N2
+</s>
+</head>
+<byline>
+Pécs	Pécs	N.NOM	NS3NN
+</byline>
+<head type="display">
+<s>
+Több	több	Num.NOM	Q
+száz	száz	Num.NOM	Q
+megbetegedést	megbetegedés	N.ACC	NS3NA
+regisztráltak	regisztrál	V.Mt3	VP3PI
+az	az	Det	D
+ételmérgezések	ételmérgezés	N.PL.NOM	NP3NN
+jellemzõ	jellemzõ	A.NOM	AS_A
+tüneteivel	tünet	N.PSe3i.INS	NP3NIS3
+szerte	szerte	Pre	Z
+az	az	Det	D
+országban	ország	N.INE	NS3N2
+az	az	Det	D
+elmúlt	elmúlt	MIB.NOM	AS_V
+hetekben	hét	N.PL.INE	NP3N2
+.	.	SPUNCT	SPUNCT
+</s>
+<s>
+A	a	Det	D
+fõváros	fõváros	N.NOM	NS3NN
+után	után	NU	RP
+,	,	WPUNCT	WPUNCT
+ahol	ahol	Adv	R
+csaknem	csaknem	Adv	R
+ezren	ezer	Num.SUP	NS3QP
+-	-	WPUNCT	WPUNCT
+fõleg	fõleg	Adv	R
+óvodások	óvodás	A.PL.NOM	NP3AN
+és	és	Con	C
+kisiskolások	kisiskolás	A.PL.NOM	NP3AN
+-	-	WPUNCT	WPUNCT
+betegedtek	betegedik	V.Mt3	VP3PI
+meg	meg	Pre	Z
+,	,	WPUNCT	WPUNCT
+egy	egy	Num.NOM	Q
+pécs-meszesi	pécs-meszesi	UNKNOWNTAG	AS_A-GUESS
+óvodában	óvoda	N.INE	NS3N2
+is	is	Con	C
+felütötte	felüt	Pre.V.TMe3	@VS3PD
+fejét	fej	N.PSe3.ACC	NS3NAS3
+a	a	Det	D
+hasmenéssel	hasmenés	N.INS	NS3NI
+,	,	WPUNCT	WPUNCT
+hányással	hányás	N.INS	NS3NI
+járó	járó	MIF.NOM	AS_V
+kór	kór	N.NOM	NS3NN
+.	.	SPUNCT	SPUNCT
+</s>
+<s>
+A	a	Det	D
+megyei	megyei	A.NOM	AS_A
+ÁNTSZ	ÁNTSZ	N.NOM	NS3NN
+vizsgálatai	vizsgálat	N.PSe3i.NOM	NP3NNS3
+kiderítették	kiderítet|kiderít	Pre.V.TMt3|Pre.V.TMt3	@VP3PD|@VP3PD
+,	,	WPUNCT	WPUNCT
+ugyanaz	ugyanaz	Pro.NOM	PS3PN
+,	,	WPUNCT	WPUNCT
+az	az	Pro.NOM	PS3PN
+elõször	elõször	Adv	R
+csupán	csupán	Adv	R
+néhány	néhány	Pro.NOM	PS3PN
+éve	év	N.PSe3.NOM	NS3NNS3
+kimutatott	kimutatott	MIB.NOM	AS_V
+vírus	vírus	N.NOM	NS3NN
+okozta	okoz	V.TMe3	VS3PD
+a	a	Det	D
+fõvárosi	fõvárosi	A.NOM	AS_A
+és	és	Con	C
+pécsi	pécsi	N.NOM	NS3NN
+megbetegedéseket	megbetegedés	N.PL.ACC	NP3NA
+.	.	SPUNCT	SPUNCT
+</s>
+</head>
+<p>
+<s>
+A	a	Det	D
+május	május	N.NOM	NS3NN
+közepi	közepi	A.NOM	AS_A
+,	,	WPUNCT	WPUNCT
+tömeges	tömeges	A.NOM	AS_A
+budapesti	budapesti	A.NOM	AS_A
+megbetegedések	megbetegedés	N.PL.NOM	NP3NN
+után	után	NU	RP
+a	a	Det	D
+megye	megye	N.NOM	NS3NN
+háziorvosai	háziorvos	N.PSe3i.NOM	NP3NNS3
+is	is	Con	C
+felfigyeltek	felfigyel	Pre.V.Mt3	@VP3PI
+arra	az	Pro.SUB	NS3PS
+,	,	WPUNCT	WPUNCT
+hogy	hogy	Con	C
+nagyon	nagyon	Adv	R
+sokan	sokan	Adv	R
+keresik	keres	V.Tt3	VP3RD
+fel	fel	Pre	Z
+a	a	Det	D
+rendelõket	rendelõ	N.PL.ACC	NP3NA
+a	a	Det	D
+gyomorrontásra	gyomorrontás	N.SUB	NS3NS
+jellemzõ	jellemzõ	MIF.NOM	AS_V
+hasmenéses	hasmenéses	A.NOM	AS_A
+,	,	WPUNCT	WPUNCT
+hányásos	hányásos	A.NOM	AS_A
+panaszokkal	panasz	N.PL.INS	NP3NI
+.	.	SPUNCT	SPUNCT
+</s>
+<s>
+A	a	Det	D
+megyeszerte	megyeszerte	Adv	R
+elszórtan	elszórtan	Adv	R
+jelentkezõ	jelentkezõ	MIF.NOM	AS_V
+megbetegedések	megbetegedés	N.PL.NOM	NP3NN
+mellett	mellett	NU	RP
+az	az	Det	D
+egyik	egyik	Pro.NOM	PS3PN
+pécsi	pécsi	N.NOM	NS3NN
+,	,	WPUNCT	WPUNCT
+meszesi	meszesi	UNKNOWNTAG	NP3PE-GUESS
+óvodában	óvoda	N.INE	NS3N2
+35	35	DIG	Q
+kisgyermeket	kisgyermek	N.ACC	NS3NA
+és	és	Con	C
+5	5	DIG	Q
+pedagógust	pedagógus	N.ACC	NS3NA
+ért	érik|ér	V.Me3|V.Me3	VS3PI|VS3PI
+utol	utol	Pre	Z
+a	a	Det	D
+kór	kór	N.NOM	NS3NN
+.	.	SPUNCT	SPUNCT
+</s>
+<s>
+A	a	Det	D
+mohácsi	mohácsi	A.NOM	AS_A
+kirándulásra	kirándulás	N.SUB	NS3NS
+induló	induló	MIF.NOM	AS_V
+kisgyerekek	kisgyerek	N.PL.NOM	NP3NN
+egyike	egyik	Pro.PSe3.NOM	NS3PNS3
+már	már	Adv	R
+betegen	betegen	Adv	R
+szállt	száll	V.Me3	VS3PI
+fel	fel	Pre	Z
+a	a	Det	D
+buszra	busz	N.SUB	NS3NS
+,	,	WPUNCT	WPUNCT
+s	s	Con	C
+mire	mi	Pro.SUB	NS3PS
+másnap	másnap	N.NOM	NS3NN
+hazaindultak	hazaindul	Pre.V.Mt3	@VP3PI
+Pécsre	Pécs	N.SUB	NS3NS
+,	,	WPUNCT	WPUNCT
+az	az	Det	D
+óvodai	óvodai	A.NOM	AS_A
+csoport	csoport	N.NOM	NS3NN
+csaknem	csaknem	Adv	R
+minden	minden	Pro.NOM	PS3PN
+tagja	tag	N.PSe3.NOM	NS3NNS3
+,	,	WPUNCT	WPUNCT
+az	az	Det	D
+óvónõkkel	óvónõ	N.PL.INS	NP3NI
+és	és	Con	C
+dadákkal	dada	N.PL.INS	NP3NI
+együtt	együtt	Adv	R
+megkapta	megkap	Pre.V.TMe3	@VS3PD
+a	a	Det	D
+fertõzõ	fertõzõ	A.NOM	AS_A
+betegséget	betegség	N.ACC	NS3NA
+:	:	WPUNCT	WPUNCT
+két	két	Num.NOM	Q
+gyermeket	gyermek	N.ACC	NS3NA
+még	még	Adv	R
+napokig	nap	N.PL.TER	NP3N9
+kórházban	kórház	N.INE	NS3N2
+voltak	van	V.Mt3	VP3PI
+kénytelenek	kénytelen	A.PL.NOM	NP3AN
+ápolni	ápol	V.INF	VI
+.	.	SPUNCT	SPUNCT
+</s>
+</p>
+<p>
+<s>
+Dr	Dr	Abb.NOM	Y
+.	.	SPUNCT	SPUNCT
+</s>
+<s>
+Szûcs	szûcs	N.NOM	NS3NN
+György	György	N.NOM	NS3NN
+,	,	WPUNCT	WPUNCT
+a	a	Det	D
+megyei	megyei	A.NOM	AS_A
+Állami	állami	A.NOM	AS_A
+Népegészségügyi	Népegészségügyi	A.NOM	AS_A
+és	és	Con	C
+Tisztiorovosi	Tisztiorovosi	UNKNOWNTAG	AS_A-GUESS
+Szolgálat	szolgálat	N.NOM	NS3NN
+(	(	WPUNCT	WPUNCT
+ÁNTSZ	ÁNTSZ	N.NOM	NS3NN
+)	)	WPUNCT	WPUNCT
+mikrobiológiai	mikrobiológiai	A.NOM	AS_A
+laboratóriumának	laboratórium	N.PSe3.DAT	NS3NDS3
+vezetõje	vezetõ	N.PSe3.NOM	NS3NNS3
+a	a	Det	D
+Dunántúli	Dunántúli	A.NOM	AS_A
+Napló	napló	N.NOM	NS3NN
+kérdésére	kérdés	N.PSe3.SUB	NS3NSS3
+kifejtette	kifejtet|kifejt	Pre.V.TMe3|Pre.V.TMe3	@VS3PD|@VS3PD
+,	,	WPUNCT	WPUNCT
+mind	mind	Pro.NOM	PS3PN
+a	a	Det	D
+fõvárosi	fõvárosi	A.NOM	AS_A
+,	,	WPUNCT	WPUNCT
+mind	mind	Pro.NOM	PS3PN
+pedig	pedig	Con	C
+a	a	Det	D
+pécsi	pécsi	N.NOM	NS3NN
+megbetegedések	megbetegedés	N.PL.NOM	NP3NN
+hátterében	háttér	N.PSe3.INE	NS3N2S3
+az	az	Det	D
+úgynevezett	úgynevezett	A.NOM	AS_A
+calicivírus	calicivírus	UNKNOWNTAG	NS3NA-GUESS
+áll	áll	V.e3	VS3RI
+,	,	WPUNCT	WPUNCT
+amelynek	amely	Pro.DAT	NS3PD
+kimutatására	kimutatás	N.PSe3.SUB	NS3NSS3
+Közép-Európában	közép--Európa|Közép-Európa	N.NOM--N.INE|N.INE	NS3N2|NS3N2
+egyedül	egyedül	Adv	R
+itt	itt	Adv	R
+,	,	WPUNCT	WPUNCT
+Pécsett	Pécs	N.INE	NS3N2
+áll	áll	V.e3	VS3RI
+rendelkezésre	rendelkezés	N.SUB	NS3NS
+a	a	Det	D
+megfelelõ	megfelelõ	MIF.NOM	AS_V
+technika	technika	N.NOM	NS3NN
+.	.	SPUNCT	SPUNCT
+</s>
+<s>
+(	(	WPUNCT	WPUNCT
+Lásd	lát	V.TPe2	VS2SD
+:	:	WPUNCT	WPUNCT
+Ártatlan	ártatlan	A.NOM	AS_A
+a	a	Det	D
+konyha	konyha	N.NOM	NS3NN
+címû	címû	A.NOM	AS_A
+írásunkat	írás	N.PSt1.ACC	NS3NAP1
+!	!	SPUNCT	SPUNCT
+)	)	WPUNCT	WPUNCT
+</s>
+</p>
+<p>
+<s>
+A	a	Det	D
+szakember	szakember	N.NOM	NS3NN
+kérdésünkre	kérdés	N.PSt1.SUB	NS3NSP1
+elmondta	elmond	Pre.V.TMe3	@VS3PD
+:	:	WPUNCT	WPUNCT
+tény	tény	N.NOM	NS3NN
+,	,	WPUNCT	WPUNCT
+hogy	hogy	Con	C
+ugyanaz	ugyanaz	Pro.NOM	PS3PN
+a	a	Det	D
+vírus	vírus	N.NOM	NS3NN
+okozta	okoz	V.TMe3	VS3PD
+a	a	Det	D
+megbetegedéseket	megbetegedés	N.PL.ACC	NP3NA
+,	,	WPUNCT	WPUNCT
+de	de	Con	C
+azt	az	Pro.ACC	NS3PA
+egyelõre	egyelõre	Adv	R
+nem	nem	Adv	R
+tudni	tud	V.INF	VI
+,	,	WPUNCT	WPUNCT
+hogy	hogy	Con	C
+a	a	Det	D
+budapesti	budapesti	A.NOM	AS_A
+és	és	Con	C
+pécsi	pécsi	N.NOM	NS3NN
+esetek	eset	N.PL.NOM	NP3NN
+között	között	NU	RP
+van	van	V.e3	VS3RI
+-e	-e	Clit	CLIT
+valamiféle	valamiféle	A.NOM	AS_A
+kapcsolat	kapcsolat	N.NOM	NS3NN
+.	.	SPUNCT	SPUNCT
+</s>
+<s>
+Minderre	Mindez	Pro.SUB	NS3PS
+a	a	Det	D
+levett	levett	MIB.NOM	AS_V
+mintákban	minta	N.PL.INE	NP3N2
+található	található	MIF.NOM	AS_V
+vírusok	vírus	N.PL.NOM	NP3NN
+úgynevezett	úgynevezett	A.NOM	AS_A
+RNS-ujj-lenyomatának	RNS-ujj-lenyomatának	UNKNOWNTAG	AS_A-GUESS
+további	további	N.NOM	NS3NN
+finomítására	finomítás	N.PSe3.SUB	NS3NSS3
+lenne	lesz	V.Fe3	VS3CI
+szükség	szükség	N.NOM	NS3NN
+,	,	WPUNCT	WPUNCT
+így	így	Con	C
+egyelõre	egyelõre	Adv	R
+nem	nem	Adv	R
+lehet	lehet	V.e3	VS3RI
+kapcsolatot	kapcsolat	N.ACC	NS3NA
+feltételezni	feltételez	Pre.V.INF	@VI
+a	a	Det	D
+budapesti	budapesti	A.NOM	AS_A
+és	és	Con	C
+pécsi	pécsi	N.NOM	NS3NN
+betegséghullám	betegséghullám	N.NOM	NS3NN
+között	között	NU	RP
+.	.	SPUNCT	SPUNCT
+</s>
+</p>
+<p>
+<s>
+Dr	Dr	Abb.NOM	Y
+.	.	SPUNCT	SPUNCT
+</s>
+<s>
+Ruppert	Ruppert	UNKNOWNTAG	NS3NN-GUESS
+Ferenc	Ferenc	N.NOM	NS3NN
+(	(	WPUNCT	WPUNCT
+képünkön	kép	N.PSt1.SUP	NS3NPP1
+)	)	WPUNCT	WPUNCT
+,	,	WPUNCT	WPUNCT
+a	a	Det	D
+városi	városi	A.NOM	AS_A
+ÁNTSZ	ÁNTSZ	N.NOM	NS3NN
+fõorvosa	fõorvos	N.PSe3.NOM	NS3NNS3
+elmondta	elmond	Pre.V.TMe3	@VS3PD
+,	,	WPUNCT	WPUNCT
+a	a	Det	D
+calicivírus	calicivírus	UNKNOWNTAG	NS3NN-GUESS
+által	által	NU	RP
+okozott	okozott	MIB.NOM	AS_V
+megbetegedést	megbetegedés	N.ACC	NS3NA
+gyomor-bélrendszeri	gyomor-bélrendszeri	UNKNOWNTAG	AS_A-GUESS
+influenzának	influenza	N.DAT	NS3ND
+is	is	Con	C
+nevezi	nevez	V.Te3	VS3RD
+a	a	Det	D
+szakirodalom	szakirodalom	N.NOM	NS3NN
+.	.	SPUNCT	SPUNCT
+</s>
+<s>
+A	a	Det	D
+párhuzam	párhuzam	N.NOM	NS3NN
+a	a	Det	D
+két	két	Num.NOM	Q
+vírus	vírus	N.NOM	NS3NN
+között	között	NU	RP
+több	több	Num.NOM	Q
+téren	tér	N.SUP	NS3NP
+is	is	Con	C
+megmutatkozik	megmutatkozik	Pre.V.e3	@VS3RI
+:	:	WPUNCT	WPUNCT
+a	a	Det	D
+calicivírus	calicivírus	UNKNOWNTAG	NP3AX-GUESS
+is	is	Con	C
+szezonálisan	szezonálisan	Adv	R
+-	-	WPUNCT	WPUNCT
+Magyarországon	Magyarország	N.SUP	NS3NP
+jellemzõen	jellemzõen	Adv	R
+május	május	N.NOM	NS3NN
+környékén	környék	N.PSe3.SUP	NS3NPS3
+-	-	WPUNCT	WPUNCT
+okozza	okoz	V.Te3	VS3RD
+a	a	Det	D
+járványszerû	járványszerû	A.NOM	AS_A
+megbetegedéseket	megbetegedés	N.PL.ACC	NP3NA
+.	.	SPUNCT	SPUNCT
+</s>
+<s>
+Az	az	Det	D
+influenzához	influenza	N.ALL	NS3NT
+hasonlóan	hasonlóan	Adv	R
+a	a	Det	D
+nyálkahártyát	nyálkahártya	N.ACC	NS3NA
+,	,	WPUNCT	WPUNCT
+ebben	ez	Pro.INE	NS3P2
+az	az	Det	D
+esetben	eset	N.INE	NS3N2
+a	a	Det	D
+bél	bél	N.NOM	NS3NN
+nyálkahártyáját	nyálkahártya	N.PSe3.ACC	NS3NAS3
+támadja	támad	V.Te3	VS3RD
+meg	meg	Pre	Z
+,	,	WPUNCT	WPUNCT
+és	és	Con	C
+ugyanolyan	ugyanolyan	Pro.NOM	PS3PN
+gyorsan	gyorsan	Adv	R
+terjed	terjed	V.e3	VS3RI
+,	,	WPUNCT	WPUNCT
+mint	mint	Con	C
+téli	téli	A.NOM	AS_A
+rokona	rokon	A.PSe3.NOM	NS3ANS3
+.	.	SPUNCT	SPUNCT
+</s>
+<s>
+A	a	Det	D
+rendkívül	rendkívül	Adv	R
+könnyen	könnyen	Adv	R
+,	,	WPUNCT	WPUNCT
+cseppfertõzés	cseppfertõzés	N.NOM	NS3NN
+formájában	forma	N.PSe3.INE	NS3N2S3
+fertõzõ	fertõzõ	MIF.NOM	AS_V
+kórokozó	kórokozó	N.NOM	NS3NN
+ellen	ellen	NU	RP
+gyakorlatilag	gyakorlatilag	Adv	R
+az	az	Det	D
+egyetlen	egyetlen	A.NOM	AS_A
+lehetséges	lehetséges	A.NOM	AS_A
+védekezési	védekezési	A.NOM	AS_A
+mód	mód	N.NOM	NS3NN
+a	a	Det	D
+rendszeres	rendszeres	A.NOM	AS_A
+kézmosás	kézmosás	N.NOM	NS3NN
+.	.	SPUNCT	SPUNCT
+</s>
+</p>
+<p>
+<s>
+A	a	Det	D
+vírus	vírus	N.NOM	NS3NN
+elsõsorban	elsõsorban	Adv	R
+gyermekeknél	gyermek	N.PL.ADE	NP3N3
+és	és	Con	C
+idõseknél	idõs	A.PL.ADE	NP3A3
+okoz	okoz	V.e3	VS3RI
+megbetegedést	megbetegedés	N.ACC	NS3NA
+,	,	WPUNCT	WPUNCT
+a	a	Det	D
+felnõttek	felnõtt	N.PL.NOM	NP3NN
+nagy	nagy	A.NOM	AS_A
+többsége	többség	N.PSe3.NOM	NS3NNS3
+mindenféle	mindenféle	A.NOM	AS_A
+tünet	tünet	N.NOM	NS3NN
+nélkül	nélkül	NU	RP
+vészeli	vészel	V.Te3	VS3RD
+át	át	Pre	Z
+fertõzöttségét	fertõzöttség	N.PSe3.ACC	NS3NAS3
+.	.	SPUNCT	SPUNCT
+</s>
