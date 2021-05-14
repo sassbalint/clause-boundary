@@ -39,6 +39,11 @@ Additional bonus: file encoding is `iso-8859-2`.
 Sorry...
 
 
+## output format
+
+One-clause-per-line `txt`.
+
+
 ## citation
 
 If you might use it, please refer to the following paper:
